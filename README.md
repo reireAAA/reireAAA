@@ -1,3 +1,3 @@
 ## Hi👋
 
-I'm yet another researcher working on algorithms, tools & techniques. Building [Open Reasoning](x.com/open-reasoning) &.
+I'm yet another researcher working on algorithms, tools & techniques. Building [f STAR.](https://github.com/fSTARAI) &.

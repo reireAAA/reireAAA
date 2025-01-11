@@ -1,3 +1,3 @@
 ## Hi👋
 
-I'm yet another researcher working on algorithms, tools & techniques. Building [f STAR.](https://github.com/fSTARAI) &.
+I'm yet another researcher working on algorithms, tools & techniques. Building [F*](https://github.com/frontierstar) &.
